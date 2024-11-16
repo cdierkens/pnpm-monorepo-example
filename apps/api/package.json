@@ -8,8 +8,9 @@
     "dev": "tsup --watch './src'"
   },
   "dependencies": {
+    "@fastify/cors": "^10.0.1",
     "@monorepo/schemas": "workspace:*",
-    "fastify": "4.27.0"
+    "fastify": "^5.1.0"
   },
   "devDependencies": {
     "@tsconfig/node20": "20.1.4",
