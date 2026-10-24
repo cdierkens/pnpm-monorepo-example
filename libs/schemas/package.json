@@ -14,7 +14,7 @@
     "build": "tsup"
   },
   "devDependencies": {
-    "@tsconfig/node20": "20.1.4",
+    "@tsconfig/node22": "22.0.0",
     "@types/node": "20.14.1",
     "tsup": "8.1.0"
   },
